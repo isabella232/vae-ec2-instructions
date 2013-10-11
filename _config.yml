@@ -1,2 +1,3 @@
-name: Your New Jekyll Site
+name: VAE EC2 Instructions
 pygments: true
+baseurl: /vae-ec2-instructions
